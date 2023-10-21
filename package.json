@@ -1,0 +1,25 @@
+{
+  "name": "geist-ui-nextjs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@geist-ui/core": "latest",
+    "@geist-ui/icons": "^1.0.2",
+    "next": "^12.0.8",
+    "piston-client": "^1.0.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "20.8.7",
+    "@types/react": "^17.0.38",
+    "eslint": "8.7.0",
+    "eslint-config-next": "12.0.8",
+    "typescript": "^4.5.4"
+  }
+}

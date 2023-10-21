@@ -2,8 +2,8 @@ import { NextApiRequest, NextApiResponse } from "next";
 import piston from "piston-client";
 
 export default async function handler(
-		req: NextApiRequest,
-		res: NextApiResponse
+		req,
+		res
 ) {
 	console.log(`
 Turn the pseudocode below into Python. Respond with nothing but pure python code.

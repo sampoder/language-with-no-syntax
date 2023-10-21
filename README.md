@@ -1,5 +1,7 @@
 # A Misadventure Into Syntaxless Programming
 
+<img width="1552" alt="Screenshot 2023-10-20 at 6 27 22 PM" src="https://github.com/sampoder/language-with-no-syntax/assets/39828164/3509f138-c34c-4a63-aca9-7145452a8e2e">
+
 **Syntax sucks.** I don't know about you but sometimes I feel like that, so what if we had a programming language without syntax that simply "figured out" what you wanted it to do? Wouldn't that be great? Well in theory that's what this is. So go ahead, write some code in the box below and see it's output! There's no syntax... so type whatever.
 
 _This is incredibly stupid..._

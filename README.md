@@ -1,22 +1,11 @@
-# Next.js demo for Geist UI
+# A Misadventure Into Syntaxless Programming
 
-## Getting Started
+**Syntax sucks.** I don't know about you but sometimes I feel like that, so what if we had a programming language without syntax that simply "figured out" what you wanted it to do? Wouldn't that be great? Well in theory that's what this is. So go ahead, write some code in the box below and see it's output! There's no syntax... so type whatever.
 
-First, run the development server:
+_This is incredibly stupid..._
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+Yes, yes it is. And that's kind of why I built it... to show why syntax is important and actually helpful. This can be nice at first but it's incredibly frustrating to have the computer essentially guess what you mean.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Secretly, all that this is doing is calling ChatGPT and asking it to convert what you type into Python. It then executes that Python on the server and spits out the output. No... I didn't create some insane programming language. Sorry to disappoint.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+[language-with-no-syntax.sampoder.com](https://language-with-no-syntax.sampoder.com/)
